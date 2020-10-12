@@ -1,0 +1,11 @@
+Drosophila_melanogaster_exon.fasta
+Anopheles_arabiensis_genomic.fasta
+Bactrocera_latifrons_genomic.fasta
+Culex_quinquefasciatus_genomic.fasta
+Drosophila_ficusphila_genomic.fasta
+Ephydra_gracilis_genomic.fasta
+Heliconius_melpomene_cds.fasta
+Melitaea_cinxia_cds.fasta
+Nasonia_vitripennis_cds.fasta
+Solenopsis_invicta_cds.fasta
+Tribolium_castaneum_cds.fasta
